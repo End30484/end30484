@@ -1,5 +1,5 @@
 ## Hi there 👋
-selam burda bütün github tooları var istediniz kadar hack yapmak için sizin için ürettüm iyi hackler
+selam burda bütün github tooları var istediniz kadar hack yapmak için sizin için ürettim iyi hackler
 
 <!--
 **End30484/end30484** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

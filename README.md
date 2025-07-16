@@ -1,4 +1,10 @@
 ## Hi there 👋
+git clone https://github.com/End30484/end30484.git
+$ apt-get --force-yes -y install git apache2 python-requests libapache2-mod-php \
+  python-pymssql build-essential python-pexpect python-pefile python-crypto python-openssl
+  $ git clone https://github.com/End30484/end30484.git
+$ cd set
+$ python setup.py install
 
 <!--
 **End30484/end30484** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
